@@ -1,10 +1,10 @@
-### Hi, I'm Álister 👋👨🏻‍💻
+# Hi, I'm Álister 👋👨🏻‍💻
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=alisterlf" alt="alisterlf" />
 </p>
 
-## A little more about me...
+### A little more about me...
 ```ts
 export class Info {
   pronouns: string[] = ['He', 'Him'];
